@@ -1,0 +1,24 @@
+.preference{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.redDistance{
+  border: 5px solid red;
+}
+
+.greenDistance{
+  border: 5px solid green;
+}
+#distance{
+  text-align: center;
+  padding: 20px;
+  margin: 50px;
+}
